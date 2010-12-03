@@ -1,0 +1,25 @@
+<projectDescription>
+  <id>1291364724537</id>
+  <name>thaiproject</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/Porama/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/Porama/AppData/Local/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///F|/Source Code/thaiproject/main.fla</defaultApp>
+  <rootURI>file:///F|/Source Code/thaiproject/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="main.fla">file:///F|/Source Code/thaiproject/main.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="music.fla">file:///F|/Source Code/thaiproject/resources/music.fla</uri>
+    <uri label="sounds.fla">file:///F|/Source Code/thaiproject/resources/sounds.fla</uri>
+    <uri label="buttons.fla">file:///F|/Source Code/thaiproject/resources/buttons.fla</uri>
+    <uri label="images.fla">file:///F|/Source Code/thaiproject/resources/images.fla</uri>
+    <uri label="main.fla">file:///F|/Source Code/thaiproject/main.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
