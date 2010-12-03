@@ -1,16 +1,18 @@
 ========================================================================================================
-Please do not create your own files, and use the existing ones:
-	main.fla              This should be the central file for the project.
-	resources             This folder should contain all the library .fla files for this project's 
-	                      resources. I will import the libraries into main.fla when I use it.
-	resources/buttons.fla This should contain all the button files for this project.
-	resources/images.fla  This should contain all STATIC images. Please don't put animated resources or 
-	                      buttons here.
-	resources/music.fla   This should contain the music library, if such a thing is required.
-	resources/sounds.fla  This should contain the sounds library. Please distinguish between music and 
-	                      sounds. Music has a tune, long or short. Sounds are for single notes or very 
-						  short tunes.
-	resources/music       Actual music files should be kept in here.
-	resources/sounds      Actual sound files should be kept in here.
-	scripts               All Actionscripts should be in here if possible.
+
+The project file structure are as follows:
+    main.fla              This should be the central file for the project.
+    resources             This folder should contain all the library .fla files for this project's 
+                          resources. I will import the libraries into main.fla when I use it.
+    resources/buttons.fla This should contain all the button files for this project.
+    resources/images.fla  This should contain all STATIC images. Please don't put animated resources or 
+                          buttons here.
+    resources/music.fla   This should contain the music library, if such a thing is required.
+    resources/sounds.fla  This should contain the sounds library. Please distinguish between music and 
+                          sounds. Music has a tune, long or short. Sounds are for single notes or very 
+                          short tunes.
+    resources/music       Actual music files should be kept in here.
+    resources/sounds      Actual sound files should be kept in here.
+    scripts               All Actionscripts should be in here if possible.
+
 ========================================================================================================
